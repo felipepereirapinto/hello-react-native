@@ -29,3 +29,6 @@ expo start
 ```
 
 You'll be given a QR code in your terminal and/or browser. Scan it with [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US) (Android) or the Camera app (iOS) to see the app in your phone.
+
+---
+by Felipe
